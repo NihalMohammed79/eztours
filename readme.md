@@ -1,3 +1,11 @@
-# Natours Application
+# ezTours Application
 
-Built using Node.js, Express, MongoDB, Mongoose and Pug Templates
+A web application where users can login and book tour packages.
+
+## Built With
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+
+## Features
